@@ -1,4 +1,2 @@
 #!/bin/bash
-$ ls -d $PWD/
-$ wc -l file
-
+ls -d $PWD/
