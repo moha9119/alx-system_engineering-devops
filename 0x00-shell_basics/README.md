@@ -5,3 +5,5 @@
 3. Te long format
 4. Hidden Files
 5. I love numbers
+6. Welcome Script that creates a directory
+7. Betty Move the file betty from /tmp/
