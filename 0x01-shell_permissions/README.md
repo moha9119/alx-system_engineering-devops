@@ -6,4 +6,4 @@
 4. Empty file
 5. Execute
 6. Multiple permissions
-7. add Execution for all users
+7. add Execution permission for all users
