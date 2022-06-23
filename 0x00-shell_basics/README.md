@@ -7,3 +7,5 @@
 5. I love numbers
 6. Welcome Script that creates a directory
 7. Betty Move the file betty from /tmp/
+8. Delete File
+9. Bye bye Directory
