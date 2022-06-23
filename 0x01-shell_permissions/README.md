@@ -7,3 +7,4 @@
 5. Execute
 6. Multiple permissions
 7. add Execution permission for all users
+8. James Bond Permission only for other users
