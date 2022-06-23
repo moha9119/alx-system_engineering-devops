@@ -9,3 +9,4 @@
 7. add Execution permission for all users
 8. James Bond Permission only for other users
 9. John Doe
+10. Clone Permissions
