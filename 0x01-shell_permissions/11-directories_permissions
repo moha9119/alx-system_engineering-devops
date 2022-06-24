@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 755 $PWD
+sudo chmod 755 $PWD
