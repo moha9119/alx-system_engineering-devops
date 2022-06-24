@@ -1,0 +1,2 @@
+#!/bin/bash
+chown vincent -a $PWD |chgrp staff -a $PWD
