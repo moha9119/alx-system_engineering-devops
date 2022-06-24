@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 751 $PWD
+sudo chmod -R 711 $PWD
