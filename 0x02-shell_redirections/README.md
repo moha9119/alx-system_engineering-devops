@@ -5,5 +5,9 @@
 4-lastlines
 5-firstlines
 6-third_line
+7-file
+8-cwd_state
+\*\\Best School'\*$?*****:)
 iacta
+ls_cwd_content
 README.md
